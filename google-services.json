@@ -1,0 +1,146 @@
+{
+  "project_info": {
+    "project_number": "963601714063",
+    "firebase_url": "https://finnplace-android.firebaseio.com",
+    "project_id": "finnplace-android",
+    "storage_bucket": "finnplace-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963601714063:android:ac4bfa656a40694c0a99fa",
+        "android_client_info": {
+          "package_name": "fi.jesunmaailma.finnplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963601714063-204blqvgih4r63bqeom9g38lqm0tltdp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fi.jesunmaailma.finnplace",
+            "certificate_hash": "2daa2e083c9f7c4b4a6925b6e939d5acaab3a1cd"
+          }
+        },
+        {
+          "client_id": "963601714063-s0cm6gfjf6jeovai0bbt9v4eq34ofobg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fi.jesunmaailma.finnplace",
+            "certificate_hash": "e7e0f128caab46f81ef5be68b4340d3822e09cc0"
+          }
+        },
+        {
+          "client_id": "963601714063-0bcq44vdoulbn7u83rhj1ij9onfsf3rc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD19iJDatmcVQx5YpSntw5f5ktnmnHR-mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963601714063-0bcq44vdoulbn7u83rhj1ij9onfsf3rc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963601714063:android:fd2a5864daa473590a99fa",
+        "android_client_info": {
+          "package_name": "fi.jesunmaailma.supliikki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963601714063-bnu9pq4alsd9knu72s3dq1hoarqnb7si.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fi.jesunmaailma.supliikki",
+            "certificate_hash": "e7e0f128caab46f81ef5be68b4340d3822e09cc0"
+          }
+        },
+        {
+          "client_id": "963601714063-u7m02a9pm2h26vcptc4v81khins03d3c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fi.jesunmaailma.supliikki",
+            "certificate_hash": "2daa2e083c9f7c4b4a6925b6e939d5acaab3a1cd"
+          }
+        },
+        {
+          "client_id": "963601714063-0bcq44vdoulbn7u83rhj1ij9onfsf3rc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD19iJDatmcVQx5YpSntw5f5ktnmnHR-mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963601714063-0bcq44vdoulbn7u83rhj1ij9onfsf3rc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963601714063:android:6237401d89f859460a99fa",
+        "android_client_info": {
+          "package_name": "fi.jesunmaailma.teeveet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963601714063-bbmpo399064uj4cursqm9hv815v29c5p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fi.jesunmaailma.teeveet",
+            "certificate_hash": "e7e0f128caab46f81ef5be68b4340d3822e09cc0"
+          }
+        },
+        {
+          "client_id": "963601714063-eh4rhhfoe51u46bverap7mr058niq4da.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fi.jesunmaailma.teeveet",
+            "certificate_hash": "2daa2e083c9f7c4b4a6925b6e939d5acaab3a1cd"
+          }
+        },
+        {
+          "client_id": "963601714063-0bcq44vdoulbn7u83rhj1ij9onfsf3rc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD19iJDatmcVQx5YpSntw5f5ktnmnHR-mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963601714063-0bcq44vdoulbn7u83rhj1ij9onfsf3rc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
