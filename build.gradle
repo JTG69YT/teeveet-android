@@ -24,7 +24,7 @@ android {
         minSdkVersion 21
         targetSdkVersion 32
         versionCode 20220418
-        versionName "2022.4.17"
+        versionName "2022.4.18"
         applicationId "fi.jesunmaailma.teeveet"
     }
 
